@@ -43,3 +43,28 @@ console.log('------------------');
 //DOM Selector - getElementById
 //DOM Events - click, blur, focus
 //DOM Properties - innerHTML, height, width
+
+
+function clickFn () {
+    console.log('Button clicked......................');
+    alert('hi.......');
+    //alert, confirm, prompt
+}
+
+
+
+function clickFn2() {
+    console.log('click 2------------------');
+}
+
+function clickFn3() {
+    console.log('click 3------------------');
+}
+
+
+
+window.onload = () => {
+    document.getElementsByTagName('button')[0].addEventListener('click', clickFn2);
+    document.getElementsByTagName('button')[0].addEventListener('click', clickFn3);
+    document.getElementsByTagName('button')[0].addEventListener('mouseover', clickFn3);
+}
