@@ -35,3 +35,40 @@ window.localStorage - for local storage
 alert, prompt, confirm, console - window
 
 setTimeout, setInterval - window
+
+
+
+
+
+Async JS
+Event Loop - https://felixgerschau.com/static/79486d91b22a7c1b4044fce88a4cae20/5a190/js-event-loop-explained.png
+
+
+
+
+JSON - JavaScript Object Notation - REST API
+XML - Xtended Markup Language - SOAP API
+
+
+//JS Object
+let obj = {
+    temp : function() {
+        console.log('hi.');
+    },
+    name: "Deepak",
+    age: 1111
+}
+
+//JSON
+let obj = {
+    "temp" : "function not allowed",
+    "name": "Deepak",
+    "age": 1111
+}
+
+
+
+
+Nova - Async JS - https://jsfiddle.net/deepak104080/n7kzj8wc/2/
+Nova - JSON - https://jsfiddle.net/deepak104080/r6co2gtd/2/
+Nova - API Call - https://jsfiddle.net/deepak104080/Lh9d6f0m/9/
