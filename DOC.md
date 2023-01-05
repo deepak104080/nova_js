@@ -72,3 +72,14 @@ let obj = {
 Nova - Async JS - https://jsfiddle.net/deepak104080/n7kzj8wc/2/
 Nova - JSON - https://jsfiddle.net/deepak104080/r6co2gtd/2/
 Nova - API Call - https://jsfiddle.net/deepak104080/Lh9d6f0m/9/
+
+
+
+Async Await - https://jsfiddle.net/deepak104080/Lh9d6f0m/24/
+API Data in DOM - https://jsfiddle.net/deepak104080/Lh9d6f0m/31/
+
+Async JS Example - https://jsfiddle.net/deepak104080/L0yed2gp/40/
+
+
+Assignment - Shopping Cart - https://jsfiddle.net/deepak104080/epku1trf/20/
+Assignment - Array Merger - https://jsfiddle.net/deepak104080/w09sxrde/17/
