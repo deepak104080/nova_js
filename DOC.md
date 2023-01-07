@@ -87,3 +87,8 @@ Assignment - Array Merger - https://jsfiddle.net/deepak104080/w09sxrde/17/
 
 Prototype and Polyfill - https://jsfiddle.net/deepak104080/oar65jLm/19/
 ES6 - https://jsfiddle.net/deepak104080/jtw8925n/52/
+
+
+
+Assignment - Shopping Cart - https://jsfiddle.net/deepak104080/epku1trf/77/
+Assignment - Array Merger - https://jsfiddle.net/deepak104080/w09sxrde/36/
