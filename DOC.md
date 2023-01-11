@@ -93,6 +93,7 @@ ES6 - https://jsfiddle.net/deepak104080/jtw8925n/52/
 Assignment - Shopping Cart - https://jsfiddle.net/deepak104080/epku1trf/77/
 Assignment - Array Merger - https://jsfiddle.net/deepak104080/w09sxrde/36/
 
+Assignment - Not a robot - https://jsfiddle.net/deepak104080/ugck9vyn/14/
 
 
 ES6
