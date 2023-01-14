@@ -94,6 +94,7 @@ Assignment - Shopping Cart - https://jsfiddle.net/deepak104080/epku1trf/77/
 Assignment - Array Merger - https://jsfiddle.net/deepak104080/w09sxrde/36/
 
 Assignment - Not a robot - https://jsfiddle.net/deepak104080/ugck9vyn/14/
+Assignment - Typing Game - https://jsfiddle.net/deepak104080/58t72kof/117/
 
 
 ES6
